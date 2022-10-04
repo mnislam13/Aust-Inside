@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -classpath ../lib/jxdocument-1.2.jar:jxdocumentdemo.jar com.teamdev.jxdocument.demo.JxDocumentDemo
